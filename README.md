@@ -1,3 +1,3 @@
 # Homework
 My autotests for stepik
-Trying to learn Pyton:)
+Trying to learn Python:)
