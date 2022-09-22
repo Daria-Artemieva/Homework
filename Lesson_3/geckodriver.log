@@ -1,0 +1,20 @@
+1663675798825	geckodriver	INFO	Listening on 127.0.0.1:65372
+1663675802334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dasha\\AppData\\Local\\Temp\\rust_mozprofile75X7wW"
+1663675802920	Marionette	INFO	Marionette enabled
+1663675802927	Marionette	INFO	Listening on port 65387
+WebDriver BiDi listening on ws://localhost:65373
+Read port: 65387
+1663675803082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dasha\\AppData\\Local\\Temp\\rust_mozprofile75X7wW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65373/devtools/browser/823bc580-430e-4b05-bcc4-16e0cd0f640b
+1663676009265	geckodriver	INFO	Listening on 127.0.0.1:49213
+1663676012761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dasha\\AppData\\Local\\Temp\\rust_mozprofiled0DsWs"
+1663676013192	Marionette	INFO	Marionette enabled
+1663676013197	Marionette	INFO	Listening on port 49226
+WebDriver BiDi listening on ws://localhost:49214
+Read port: 49226
+1663676013327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dasha\\AppData\\Local\\Temp\\rust_mozprofiled0DsWs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49214/devtools/browser/b9ab6bbb-ac23-485a-92cc-442b8425c55c
+1663676022633	Marionette	INFO	Stopped listening on port 49226
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
